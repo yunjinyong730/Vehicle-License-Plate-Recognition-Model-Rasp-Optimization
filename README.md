@@ -305,9 +305,11 @@ cv2.destroyAllWindows()
 
 - **`textRead()`**: OCR로 텍스트 추출
 - 추출된 텍스트를 원본 이미지에 시각적으로 표시
+- 
+<img width="692" alt="8" src="https://github.com/user-attachments/assets/a5579c98-3a52-461a-ba5e-5c7830155b0e" />
 
 ![9](https://github.com/user-attachments/assets/8c1a2461-ab99-4a40-b016-a6597a6b9618)
-<img width="692" alt="8" src="https://github.com/user-attachments/assets/a5579c98-3a52-461a-ba5e-5c7830155b0e" />
+
 
 
     
