@@ -485,6 +485,7 @@ cv2.destroyAllWindows()
            
             
     4. 컨투어를 필터링하여 번호판 ROI를 추출
+     <br>
        <img width="421" alt="11" src="https://github.com/user-attachments/assets/f5be5bd7-b110-4933-9751-2746ef290767" />
 
           
