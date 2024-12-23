@@ -1,7 +1,6 @@
-<img width="1105" alt="13" src="https://github.com/user-attachments/assets/617d87ea-c3c4-4ac7-b15e-a1c891d453da" /># Vehicle-License-Plate-Recognition-Model-Rasp-Optimization
-🛺 차량 번호판 인식 모델, Rasp 최적화 
-# 최종 결과물
 
+## 🛺 차량 번호판 인식 모델, Rasp 최적화 
+# 최종 결과물
 
 https://github.com/user-attachments/assets/3fee0053-b047-47ba-b2ff-e11905a71c74
 
