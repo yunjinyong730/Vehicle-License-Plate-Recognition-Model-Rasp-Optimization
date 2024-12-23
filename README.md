@@ -479,18 +479,19 @@ cv2.destroyAllWindows()
         1. 이미지를 HSV로 변환하고, top-hat 및 black-hat 연산으로 조명 효과 제거
         2. Gaussian Blur와 Adaptive Threshold로 번호판 후보 영역 강조
         3. 특정 영역(상단 50%~80%, 좌우 30%~80%)내에서 번호판 후보 탐색
-    <img width="692" alt="10" src="https://github.com/user-attachments/assets/3e5b5c15-9ea2-4b58-81e9-0dadab7d1831" />
+       <img width="692" alt="10" src="https://github.com/user-attachments/assets/3e5b5c15-9ea2-4b58-81e9-0dadab7d1831" />
 
            
             
-        4. 컨투어를 필터링하여 번호판 ROI를 추출
-            <img width="421" alt="11" src="https://github.com/user-attachments/assets/f5be5bd7-b110-4933-9751-2746ef290767" />
+    4. 컨투어를 필터링하여 번호판 ROI를 추출
+       <img width="421" alt="11" src="https://github.com/user-attachments/assets/f5be5bd7-b110-4933-9751-2746ef290767" />
 
           
             
     4. textRead
         1. 번호판 ROI에서 Tesseract OCR로 텍스트를 추출
         2. 텍스트 결과를 정제하여 알파벳 및 숫자만 남김
+  
     5. 번호판 텍스트와 ROI를 원본 이미지에 표시
         
      <img width="696" alt="12" src="https://github.com/user-attachments/assets/6c5e5dcd-6c6c-4772-b5c8-21902100a1ca" />
