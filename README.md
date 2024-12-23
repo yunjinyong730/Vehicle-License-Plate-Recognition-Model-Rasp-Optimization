@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/3fee0053-b047-47ba-b2ff-e11905a71c74
 
 
 - 프로젝트에 사용할 이미지 (대표 예시)
-![1](https://github.com/user-attachments/assets/6c8f4fef-68ec-4086-b8ec-1b484e1dd87e)
+	![1](https://github.com/user-attachments/assets/6c8f4fef-68ec-4086-b8ec-1b484e1dd87e)
 
 
 
